@@ -28,7 +28,7 @@ Provides a high-level overview of business performance through KPIs and interact
 - Average Order Value
 - Average Rating
 
-![Executive Dashboard](Executive%20Dashboard.png)
+![Executive Dashboard](screenshots/executive_dashboard.png)
 
 ---
 
