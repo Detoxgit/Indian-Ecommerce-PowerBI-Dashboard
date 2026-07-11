@@ -28,7 +28,7 @@ Provides a high-level overview of business performance through KPIs and interact
 - Average Order Value
 - Average Rating
 
-![Executive Dashboard](screenshots/Executive_Dashboard.png)
+![Executive Dashboard](screenshot/Executive%20Dashboard.png)
 
 ---
 
@@ -36,7 +36,7 @@ Provides a high-level overview of business performance through KPIs and interact
 
 A detailed analysis page for individual product categories featuring revenue, conversion rate, discount impact, customer ratings, and device-wise performance.
 
-![Category Analysis](Category%20Analysis.png)
+![Category Analysis](screenshot/Category%20Analysis.png)
 
 ---
 
@@ -44,7 +44,7 @@ A detailed analysis page for individual product categories featuring revenue, co
 
 Analyzes customer engagement through purchase funnel, session analysis, conversion trends, cart abandonment, and customer ratings.
 
-![Customer Behaviour Analysis](Customer%20Behviour%20Analysis.png)
+![Customer Behaviour Analysis](screenshot/Customer%20Behaviour%20Analysis.png)
 
 ---
 
