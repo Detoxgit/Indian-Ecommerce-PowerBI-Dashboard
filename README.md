@@ -44,7 +44,7 @@ A detailed analysis page for individual product categories featuring revenue, co
 
 Analyzes customer engagement through purchase funnel, session analysis, conversion trends, cart abandonment, and customer ratings.
 
-![Customer Behaviour Analysis](screenshot/Customer%20Behaviour%20Analysis.png)
+![Customer Behaviour Analysis](screenshot/customer_behaviour_analysis.png)
 
 ---
 
